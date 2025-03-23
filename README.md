@@ -83,8 +83,8 @@ The bonus version includes:
 
 To test the bonus part, run:
 ```sh
-./server 
-./client <PID> "This is the bonus part! 🚀"
+./server_bonus
+./client_bonus <PID> "This is the bonus part! 🚀"
 ```
 
 ---
