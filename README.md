@@ -2,7 +2,7 @@
 
 <p align="center">
   <b><i>Development repository for the 42cursus' Minitalk project</i></b><br>
-  For more about 1337 Coding School and its projects, feel free to connect with me on <a href="https://www.linkedin.com/in/tellat-ilyas/"><b>LinkedIn</b></a>.
+  For more about 1337 Coding School and its projects, feel free to connect with me on <a target="_blank" href="https://www.linkedin.com/in/tellat-ilyas/"><b>LinkedIn</b></a>.
 </p>
 
 <h3 align="center">
